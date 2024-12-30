@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\bin\Debug\net9.0\Inheritance_Part_I.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\bin\Debug\net9.0\Inheritance_Part_I.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\bin\Debug\net9.0\Inheritance_Part_I.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\bin\Debug\net9.0\Inheritance_Part_I.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\bin\Debug\net9.0\Inheritance_Part_I.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\obj\Debug\net9.0\Inheritance_Part_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\obj\Debug\net9.0\Inheritance_Part_I.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\obj\Debug\net9.0\Inheritance_Part_I.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\obj\Debug\net9.0\Inheritance_Part_I.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\obj\Debug\net9.0\Inheritance_Part_I.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\obj\Debug\net9.0\refint\Inheritance_Part_I.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\obj\Debug\net9.0\Inheritance_Part_I.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\obj\Debug\net9.0\Inheritance_Part_I.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Inheritance_Part_I\obj\Debug\net9.0\ref\Inheritance_Part_I.dll
